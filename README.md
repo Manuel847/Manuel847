@@ -1,21 +1,16 @@
 ## ¡Hola! Soy Manuel847 👋
 
-Soy **Estudiante de Ingeniería Informática** y **Desarrollador Fullstack** apasionado por la tecnología, la web y todo lo relacionado con el código que convierte ideas en realidad. 💻✨
+Soy **Estudiante de Ingeniería de Sistemas** y **Aspirante a Desarrollador Fullstack** apasionado por la tecnología, la web y todo lo relacionado con el código que convierte ideas en realidad. 💻✨
 
-### 🚀 Tecnologías y herramientas con las que trabajo:
-- **Lenguajes**: JavaScript, TypeScript, Python  
-- **Frameworks & Librerías**: React, Node.js, Next.js, NestJS, Prisma  
-- **Animación**: GSAP  
-- **Frontend & Diseño**: HTML, CSS, SASS  
-- **Backend**: Express, GraphQL, Firebase
+### 🚀 Tecnologías y herramientas con las que trabajo:  
+- **Frameworks**: Laravel   
+- **Frontend & Diseño**: HTML, CSS  
+- **Backend**: Python, JavaScript, PHP 
 
-### 🌱 Actualmente aprendiendo:
+### 🌱 Actualmente aprendiendo: 
 - Desarrollo de aplicaciones escalables y arquitecturas serverless.
-- Machine Learning y optimización de rendimiento web.
-- Nuevas técnicas de animación para crear experiencias interactivas más atractivas.
-
-### 👯 Busco colaborar en:
-Proyectos relacionados con **desarrollo web**, **animación interactiva** o **aplicaciones modernas**. Siempre abierto a compartir conocimientos y aprender de otros.
+- Practicando algoritmos y estructura de datos.
+- Aprendiendo a resolver problemas (de codigo o de la vida)
 
 ### 📫 ¿Cómo contactarme?
 Puedes escribirme a través de mi [LinkedIn](https://www.linkedin.com/in/manuel847) o directamente aquí en GitHub.
