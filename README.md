@@ -19,7 +19,7 @@ Soy **Estudiante de Ingeniería de Sistemas** y **Aspirante a Desarrollador Full
 - Jugador Profesional de Buscaminas
 
 ### 📫 ¿Cómo contactarme?
-Puedes escribirme a través de mi [LinkedIn](https://www.linkedin.com/in/manuel847) o directamente aquí en GitHub.
+Puedes escribirme a través de mi ***Correo:*** mikepvp06@gmail.com o directamente aquí en GitHub.
 
 ### ⚡ Fun fact:
 ¡Me encanta hacer que el código cobre vida! Siempre estoy buscando nuevas formas de integrar animaciones en aplicaciones web para hacerlas más dinámicas e interactivas.
