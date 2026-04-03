@@ -4,8 +4,8 @@ Soy **Estudiante de Ingeniería de Sistemas** y **Aspirante a Desarrollador Full
 
 ### 🚀 Tecnologías y herramientas con las que trabajo:  
 - **Frameworks**: Laravel   
-- **Frontend & Diseño**: HTML, CSS  
-- **Backend**: Python, JavaScript, PHP, Java 
+- **Frontend & Diseño**: HTML, CSS, JavaScript 
+- **Backend**: Python, PHP, Java 
 
 ### 🌱 Actualmente aprendiendo: 
 - Desarrollo de aplicaciones escalables y arquitecturas serverless.
